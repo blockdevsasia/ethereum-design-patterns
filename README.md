@@ -30,9 +30,7 @@ Example implementation are developed with 0.4.24 solidity version.
 Clone the contracts from this repo and try them out in remix.
 
 ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+$ git clone https://github.com/blockdevsasia/ethereum-design-patterns.git
 ```
 
 ### File Structure
