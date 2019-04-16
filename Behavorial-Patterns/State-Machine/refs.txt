@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/1658192/what-is-the-difference-between-strategy-design-pattern-and-state-design-pattern
+http://aqdi.com/articles/using-state-machines-in-your-designs-3/
+https://javarevisited.blogspot.com/2014/04/difference-between-state-and-strategy-design-pattern-java.html
